@@ -35,6 +35,10 @@ WIP
 - rajouter une authentification (mais pourquoi pas un switch entre users)
 
 
-### Attendu data 
+### Attendu Recomm
+
+- Niveau 1: pour faire de la recommandation, vous pouvez en premier utiliser les ressources du cours7 et du Lab7, la base de données de MovieLens et les algos de base de recommandation déjà implémentés. Utiliser ces ressources pour faire une recommandation à un nouvel utilisateur qui se connecterait à votre plateforme. 
+- Niveau 2: Vous pouvez construire votre propre base de données en créant des utilisateurs  et un ensemble de films et en associant, pour chacun des notes de films. Attention, il n'est pas nécessaire d'avoir l'ensemble des notations au niveau de chaque utilisateur et chaque film
+- Niveau 3: 
 
 WIP
