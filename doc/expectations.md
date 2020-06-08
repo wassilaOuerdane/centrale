@@ -35,6 +35,10 @@ WIP
 - rajouter une authentification (mais pourquoi pas un switch entre users)
 
 
-### Attendu data 
+### Attendu Recomm 
+
+- Niveau 1: pour le point de départ pour la recommendation et tester que vos algorithmes marche bien vous pouvez utiliser la base de données MovieLens et les algos basiques vus en cours 7 et dans le Lab7. 
+- Niveau 2: vous pouvez construire votre propose base de données en entrant des utilisateurs et de notes de films et ensuite utiliser les mêmes algos du cours pour un nouvel utilisateur qui arrivera sur la plateforme. 
+- Niveau 3: vous pouvez construire votre propose base de données en entrant des utilisateurs et de notes de films et ensuite mettre en place un nouvel algo de recommandation (clustering par exemple voir sur EDUNAO) pour un nouvel utilisateur qui arrivera sur la plateforme.
 
 WIP
